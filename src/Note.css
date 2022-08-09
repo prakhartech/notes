@@ -1,0 +1,16 @@
+.notecard{
+    width: 20%;
+    height: 200px;
+    background-color: blanchedalmond;
+    border-radius: 4%;
+    margin: 40px;
+}
+
+.notecard h5{
+    padding-top: 15px;
+    text-align: center;
+}
+
+.notecard Button{
+    float: right;
+}

@@ -1,0 +1,14 @@
+.heade{
+    width: 100%;
+    height: 60px;
+    background-color: blanchedalmond;
+    margin-top: 0;
+}
+
+.heading{
+    position: relative;
+    margin-top: 0%;
+    padding-top: 10px;
+    padding-left: 10px;
+    font-size: 20px;;
+}

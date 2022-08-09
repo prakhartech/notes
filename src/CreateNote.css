@@ -1,0 +1,29 @@
+form{
+    width: 40%;
+    height: 200px;
+    border-radius: 2%;
+    
+    margin: auto;
+    margin-top: 20px;
+    box-shadow: 3px 1px 5px 5px #8888887e;
+    
+}
+form input{
+    width: 90%;
+    border: none;
+    height: 30px;
+    margin-left: 5px;
+    margin-top: 15px;
+    
+}
+
+form textarea{
+    width: 90%;
+    height: 100px;
+    margin-left: 5px;
+    margin-top: 10px;
+}
+form Button{
+
+    float: right;
+}
